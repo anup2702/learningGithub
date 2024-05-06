@@ -1,3 +1,3 @@
 # learningGithub
 Learning Github <br>
-Author - Anup Kumar
+Author - Anup (spider)
